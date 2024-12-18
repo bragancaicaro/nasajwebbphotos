@@ -32,9 +32,9 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+**/build/
+.packages
 
-# Symbolication related
-app.*.symbols
 
 # Obfuscation related
 app.*.map.json
@@ -44,5 +44,23 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+
+
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+.idea/
+.vscode/
+*.iml
+
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+
+firebase-debug.log
+firestore-debug.log
+firebase-debug.log
 
 api-keys.json
