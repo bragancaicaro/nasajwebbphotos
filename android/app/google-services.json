@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563440823299",
+    "project_id": "nasajwebbphotos",
+    "storage_bucket": "nasajwebbphotos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563440823299:android:b19cec8f6fd829fd0f7236",
+        "android_client_info": {
+          "package_name": "com.wxthree.nasajwebphotos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9mePXPV0ti8kaqiZxYwENA5tqY2KWZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
